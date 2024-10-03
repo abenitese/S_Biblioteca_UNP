@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|c:\\users\\alexm\\documents\\visual studio 2022\\s_biblioteca_unp\\s_biblioteca_unp\\fprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|solutionrelative:s_biblioteca_unp\\fprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|c:\\users\\alexm\\documents\\visual studio 2022\\s_biblioteca_unp\\s_biblioteca_unp\\fprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|solutionrelative:s_biblioteca_unp\\fprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|c:\\users\\alexm\\documents\\visual studio 2022\\s_biblioteca_unp\\s_biblioteca_unp\\fmodificarprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|solutionrelative:s_biblioteca_unp\\fmodificarprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|c:\\users\\alexm\\documents\\visual studio 2022\\s_biblioteca_unp\\s_biblioteca_unp\\fmodificarprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{07885AA7-F11B-4D09-BB5B-B8268B9FA566}|S_Biblioteca_UNP\\S_Biblioteca_UNP.vbproj|solutionrelative:s_biblioteca_unp\\fmodificarprestamo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fModificarPrestamo.vb",
+              "DocumentMoniker": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "RelativeDocumentMoniker": "S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "ToolTip": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "RelativeToolTip": "S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T18:47:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fModificarPrestamo.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "RelativeDocumentMoniker": "S_Biblioteca_UNP\\fModificarPrestamo.vb",
+              "ToolTip": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fModificarPrestamo.vb [Dise\u00F1o]",
+              "RelativeToolTip": "S_Biblioteca_UNP\\fModificarPrestamo.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T18:47:19.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fPrestamo.vb",
+              "DocumentMoniker": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fPrestamo.vb",
+              "RelativeDocumentMoniker": "S_Biblioteca_UNP\\fPrestamo.vb",
+              "ToolTip": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fPrestamo.vb",
+              "RelativeToolTip": "S_Biblioteca_UNP\\fPrestamo.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T18:09:18.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fPrestamo.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fPrestamo.vb",
+              "RelativeDocumentMoniker": "S_Biblioteca_UNP\\fPrestamo.vb",
+              "ToolTip": "C:\\Users\\alexm\\Documents\\Visual Studio 2022\\S_Biblioteca_UNP\\S_Biblioteca_UNP\\fPrestamo.vb [Dise\u00F1o]",
+              "RelativeToolTip": "S_Biblioteca_UNP\\fPrestamo.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-06T18:09:12.102Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.exe
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.deps.json
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.runtimeconfig.json
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.AssemblyReference.cache
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.GenerateResource.cache
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfoInputs.cache
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfo.vb
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.CoreCompileInputs.cache
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblio.A71127FB.Up2Date
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\refint\S_Biblioteca_UNP.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.genruntimeconfig.cache
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\ref\S_Biblioteca_UNP.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLibro.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrestamo.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrincipal.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fEstudiante.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarEstudiante.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarPrestamo.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarLibro.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLogin.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarLibro.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarEstudiante.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarPrestamo.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.exe
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.deps.json
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.runtimeconfig.json
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.AssemblyReference.cache
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarEstudiante.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarLibro.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarPrestamo.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fEstudiante.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLibro.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLogin.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarEstudiante.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarLibro.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarPrestamo.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrestamo.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrincipal.resources
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.GenerateResource.cache
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfoInputs.cache
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfo.vb
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.CoreCompileInputs.cache
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblio.A71127FB.Up2Date
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\refint\S_Biblioteca_UNP.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.genruntimeconfig.cache
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\ref\S_Biblioteca_UNP.dll
+C:\Users\MARCO\Downloads\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.Resources.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.exe
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.deps.json
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.runtimeconfig.json
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.AssemblyReference.cache
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarEstudiante.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarLibro.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fBuscarPrestamo.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fEstudiante.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLibro.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fLogin.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarEstudiante.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarLibro.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fModificarPrestamo.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrestamo.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrincipal.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.Resources.resources
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.GenerateResource.cache
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfoInputs.cache
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.AssemblyInfo.vb
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.vbproj.CoreCompileInputs.cache
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblio.A71127FB.Up2Date
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\refint\S_Biblioteca_UNP.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.pdb
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.genruntimeconfig.cache
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\ref\S_Biblioteca_UNP.dll
+C:\Users\alexm\Downloads\S_Biblioteca_UNP_V1.4\S_Biblioteca_UNP_V1.3\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fInfo.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fInfo.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.Resources.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fEliminarEstudiante.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fEliminarLibro.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.fPrincipal2.resources
+C:\Users\alexm\Documents\Visual Studio 2022\S_Biblioteca_UNP\S_Biblioteca_UNP\obj\Debug\net8.0-windows\S_Biblioteca_UNP.rLibros.resources
